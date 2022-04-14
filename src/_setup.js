@@ -14,4 +14,5 @@ Hosting steps in [https://console.firebase.google.com/u/0/project/ema-john-simpl
 3. firebase init
 4. firebase deploy
 and continue to console
+!important git remote set-url htts.....
 */
